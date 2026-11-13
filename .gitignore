@@ -1,0 +1,34 @@
+# Node dependencies
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+**/dist/
+**/dist-ssr/
+*.local
+
+# Python
+**/venv/
+**/__pycache__/
+*.py[cod]
+*$py.class
+**/.pytest_cache/
+quicknote.db
+*.db
+*.sqlite3
+
+# Editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
